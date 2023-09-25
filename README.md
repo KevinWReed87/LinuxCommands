@@ -23,3 +23,13 @@
 - Display the contents of the Q1_added_users.txt file with cat Q1_added_users.txt
 
 <img src="https://i.imgur.com/GhGQHKh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+<h2>Navigate to a directory and locate a file</h2>
+
+- Navigate to the /home/analyst/logs directory with cd /home/analyst/logs
+- Display the name of the file it contains with ls
+- Display the first 10 lines of this file head server_logs.txt
+
+<img src="https://i.imgur.com/kjiYJTK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+
